@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When you find out that your lifestyle is actually called "quarantine"
 Use the left arrow to go back!
